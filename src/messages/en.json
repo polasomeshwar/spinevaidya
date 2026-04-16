@@ -1,0 +1,173 @@
+{
+  "nav": {
+    "logo": "SpineVaidya",
+    "home": "Home",
+    "specializations": "Specializations",
+    "process": "Our Process",
+    "testimonials": "Testimonials",
+    "about": "About",
+    "faq": "FAQ",
+    "bookConsultation": "Book Consultation",
+    "languageToggle": "తెలుగు"
+  },
+  "hero": {
+    "headline": "Find Lasting Relief from Chronic Pain.",
+    "subtext": "We treat the root cause of Sciatica, Back Pain, and Skin Disorders through authentic Vedic Panchakarma — a time-tested healing tradition trusted for thousands of years.",
+    "cta": "Start Your Healing Journey",
+    "ctaSecondary": "Learn About Our Approach",
+    "badge": "Trusted by 10,000+ Patients"
+  },
+  "specializations": {
+    "title": "What We Heal",
+    "subtitle": "Our treatments go beyond symptom relief. We address the root cause using ancient Vedic wisdom and proven Panchakarma therapies.",
+    "backPain": {
+      "title": "Back Pain",
+      "description": "Chronic lower back pain, lumbar spondylosis, and disc problems treated naturally through specialized Panchakarma therapies like Kati Basti.",
+      "tag": "Most Common"
+    },
+    "sciatica": {
+      "title": "Sciatica",
+      "description": "Shooting leg pain and nerve compression relieved through targeted Ayurvedic treatments that reduce inflammation and restore nerve health.",
+      "tag": "Specialized Care"
+    },
+    "orthopedics": {
+      "title": "Joint & Bone Care",
+      "description": "Arthritis, knee pain, frozen shoulder, and cervical spondylosis managed through Janu Basti, Greeva Basti, and herbal therapies.",
+      "tag": "Holistic Approach"
+    },
+    "skin": {
+      "title": "Skin Disorders",
+      "description": "Psoriasis, eczema, vitiligo, and chronic skin conditions treated by purifying the blood and balancing doshas from within.",
+      "tag": "Root-Cause Healing"
+    }
+  },
+  "process": {
+    "title": "Your Healing Journey",
+    "subtitle": "A simple, caring process designed to bring you lasting relief — step by step.",
+    "steps": [
+      {
+        "title": "Consultation & Nadi Pariksha",
+        "description": "Your journey begins with a detailed consultation. Through traditional pulse diagnosis (Nadi Pariksha), we understand your unique body constitution and the true root cause of your condition."
+      },
+      {
+        "title": "Personalized Treatment Plan",
+        "description": "Based on your diagnosis, we design a treatment plan combining specific Panchakarma therapies, herbal medicines, and dietary guidance — tailored just for you."
+      },
+      {
+        "title": "Panchakarma Therapy",
+        "description": "Experience authentic detoxification and healing therapies like Abhyanga, Swedana, Basti, and Kati Basti in our clean, serene treatment rooms."
+      },
+      {
+        "title": "Recovery & Lifestyle Guidance",
+        "description": "As your body heals, we guide you with simple dietary changes, yoga practices, and lifestyle habits to maintain long-lasting health and prevent recurrence."
+      },
+      {
+        "title": "Lasting Relief & Follow-up",
+        "description": "We stay connected with you even after treatment. Regular follow-ups ensure your recovery is on track and your pain stays away for good."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Stories of Healing",
+    "subtitle": "Hear from patients who found relief and renewed hope through our treatments.",
+    "reviews": [
+      {
+        "name": "Ramesh K.",
+        "location": "Hyderabad",
+        "text": "After 3 years of back pain, I had almost given up. SpineVaidya's Panchakarma treatment gave me my life back. I can play with my grandchildren again.",
+        "condition": "Chronic Back Pain"
+      },
+      {
+        "name": "Lakshmi S.",
+        "location": "Vijayawada",
+        "text": "The sciatica pain was unbearable. Doctors suggested surgery, but I wanted to try Ayurveda first. Best decision of my life. The pain is completely gone.",
+        "condition": "Sciatica"
+      },
+      {
+        "name": "Prasad M.",
+        "location": "Warangal",
+        "text": "My psoriasis was spreading despite years of treatment. The Vaidya garu identified my dosha imbalance and treated it from the root. My skin is clear now.",
+        "condition": "Psoriasis"
+      },
+      {
+        "name": "Anitha R.",
+        "location": "Guntur",
+        "text": "I suffered from knee pain for years. The Janu Basti treatment and herbal medicines worked wonders. I can climb stairs without pain now.",
+        "condition": "Knee Pain"
+      },
+      {
+        "name": "Suresh B.",
+        "location": "Karimnagar",
+        "text": "Very caring doctor. He listens to everything patiently and explains the treatment clearly. The clinic is very clean and the staff is very helpful.",
+        "condition": "Cervical Spondylosis"
+      },
+      {
+        "name": "Padma D.",
+        "location": "Tirupati",
+        "text": "My daughter's eczema had been troubling her since childhood. After Panchakarma treatment here, she has been free from it for over a year now.",
+        "condition": "Eczema"
+      }
+    ]
+  },
+  "doctor": {
+    "title": "Meet Your Vaidya",
+    "subtitle": "A healer rooted in tradition, guided by compassion.",
+    "name": "Dr. [Doctor Name]",
+    "designation": "B.A.M.S., M.D. (Ayurveda)",
+    "bio": "With over 15 years of dedicated practice in Vedic Ayurveda and Panchakarma, our Vaidya has helped thousands of patients find lasting relief from chronic pain and skin conditions. Trained in authentic Panchakarma under renowned Guru-Shishya tradition, every treatment is rooted in classical Ayurvedic texts and delivered with deep patient care.",
+    "highlights": [
+      "15+ Years of Clinical Experience",
+      "Specialist in Panchakarma & Pain Management",
+      "Trained in Classical Guru-Shishya Tradition",
+      "10,000+ Patients Treated Successfully",
+      "Expert in Nadi Pariksha (Pulse Diagnosis)"
+    ],
+    "quote": "\"True healing begins when we treat the person, not just the disease. Every patient is unique, and so must be their treatment.\""
+  },
+  "faq": {
+    "title": "Common Questions",
+    "subtitle": "Simple answers to help you understand our approach.",
+    "items": [
+      {
+        "question": "Is Ayurvedic treatment effective for severe back pain?",
+        "answer": "Yes, absolutely. Panchakarma therapies like Kati Basti and Abhyanga have been proven effective for chronic back pain, disc problems, and lumbar spondylosis. Many of our patients have avoided surgery through our treatments."
+      },
+      {
+        "question": "How long does the treatment take?",
+        "answer": "Treatment duration depends on the severity of your condition. Mild cases may see relief in 7-14 days, while chronic conditions may require 21-30 days of therapy. We create a timeline specific to your needs during consultation."
+      },
+      {
+        "question": "Are there any side effects?",
+        "answer": "Panchakarma is a natural detoxification process using herbal oils and medicines. When administered by a trained Vaidya, side effects are extremely rare. You may experience mild detox symptoms initially, which is a sign of healing."
+      },
+      {
+        "question": "Can I take Ayurvedic treatment along with my current medicines?",
+        "answer": "In most cases, yes. During your consultation, please share all current medications. Our Vaidya will guide you on how to safely integrate Ayurvedic treatment with your existing medicines."
+      },
+      {
+        "question": "What is Panchakarma?",
+        "answer": "Panchakarma means 'five actions' — it is the most powerful detoxification and rejuvenation therapy in Ayurveda. It includes therapies like Vamana, Virechana, Basti, Nasya, and Raktamokshana, each targeting specific health conditions."
+      },
+      {
+        "question": "Do you treat skin diseases like psoriasis and eczema?",
+        "answer": "Yes, we specialize in chronic skin conditions including psoriasis, eczema, vitiligo, and dermatitis. Our approach treats the root cause by purifying the blood and balancing your doshas, not just managing symptoms externally."
+      }
+    ]
+  },
+  "footer": {
+    "clinicName": "SpineVaidya Ayurveda Clinic",
+    "tagline": "Authentic Vedic Healing for Chronic Pain & Skin Disorders",
+    "address": "Clinic Address, City, State - PIN",
+    "phone": "+91 XXXXX XXXXX",
+    "email": "contact@spinevaidya.com",
+    "hours": {
+      "title": "Clinic Hours",
+      "weekdays": "Mon - Sat: 9:00 AM - 7:00 PM",
+      "sunday": "Sunday: By Appointment Only"
+    },
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 SpineVaidya. All rights reserved.",
+    "madeWith": "Crafted with care for your well-being."
+  }
+}
