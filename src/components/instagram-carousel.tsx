@@ -45,16 +45,15 @@ export function InstagramCarousel() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: i * 0.1 }}
                         key={i}
-                        className="flex-none snap-center w-[320px] rounded-[1.5rem] overflow-hidden shadow-[0_15px_40px_-15px_rgba(74,103,65,0.15)] bg-white transform transition-transform hover:scale-[1.01]"
+                        className="flex-none snap-center w-[280px] sm:w-[320px] aspect-[9/16] max-h-[580px] rounded-[1.5rem] overflow-hidden shadow-[0_15px_40px_-15px_rgba(74,103,65,0.15)] bg-white transform transition-transform hover:scale-[1.01] relative"
                     >
                         <iframe
                             src={url}
-                            width="320"
-                            height="580"
+                            className="absolute top-0 left-0 w-full h-full bg-white border-none block"
                             frameBorder="0"
                             scrolling="no"
-                            allow="encrypted-media"
-                            className="w-[320px] h-[580px] bg-white border-none block"
+                            allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+                            allowFullScreen
                             style={{ border: 'none', overflow: 'hidden' }}
                         />
                     </motion.div>
