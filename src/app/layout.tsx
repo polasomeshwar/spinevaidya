@@ -3,6 +3,7 @@ import { Playfair_Display, Inter, Noto_Sans_Telugu } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import "./globals.css";
+import { FloatingWhatsApp } from "@/components/floating-whatsapp";
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
@@ -45,6 +46,7 @@ export default async function RootLayout({
       <body>
         <NextIntlClientProvider messages={messages}>
           {children}
+          <FloatingWhatsApp />
         </NextIntlClientProvider>
       </body>
     </html>
