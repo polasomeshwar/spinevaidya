@@ -1,16 +1,17 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { InstagramEmbed } from 'react-social-media-embed';
 
 const REELS = [
-    "https://www.instagram.com/reel/DXFDT06EwgI/embed",
-    "https://www.instagram.com/reel/DXCQK8EE2we/embed",
-    "https://www.instagram.com/reel/DU2nyiWksuS/embed",
-    "https://www.instagram.com/reel/DUitmfSEor5/embed",
-    "https://www.instagram.com/reel/DUTF7zGEq6C/embed",
-    "https://www.instagram.com/reel/DTDFHTAkjMr/embed",
-    "https://www.instagram.com/reel/DSh9N82EsGT/embed",
-    "https://www.instagram.com/reel/DRRTaqkEro4/embed",
+    "https://www.instagram.com/reel/DXFDT06EwgI/",
+    "https://www.instagram.com/reel/DXCQK8EE2we/",
+    "https://www.instagram.com/reel/DU2nyiWksuS/",
+    "https://www.instagram.com/reel/DUitmfSEor5/",
+    "https://www.instagram.com/reel/DUTF7zGEq6C/",
+    "https://www.instagram.com/reel/DTDFHTAkjMr/",
+    "https://www.instagram.com/reel/DSh9N82EsGT/",
+    "https://www.instagram.com/reel/DRRTaqkEro4/",
 ];
 
 export function InstagramCarousel() {
@@ -45,17 +46,11 @@ export function InstagramCarousel() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: i * 0.1 }}
                         key={i}
-                        className="flex-none snap-center w-[280px] sm:w-[320px] aspect-[9/16] max-h-[580px] rounded-[1.5rem] overflow-hidden shadow-[0_15px_40px_-15px_rgba(74,103,65,0.15)] bg-white transform transition-transform hover:scale-[1.01] relative"
+                        className="flex-none snap-center w-[280px] sm:w-[320px] rounded-[1.5rem] overflow-hidden shadow-[0_15px_40px_-15px_rgba(74,103,65,0.15)] bg-white transform transition-transform hover:scale-[1.01] flex justify-center"
                     >
-                        <iframe
-                            src={url}
-                            className="absolute top-0 left-0 w-full h-full bg-white border-none block"
-                            frameBorder="0"
-                            scrolling="no"
-                            allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                            allowFullScreen
-                            style={{ border: 'none', overflow: 'hidden' }}
-                        />
+                        <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
+                            <InstagramEmbed url={url} width="100%" />
+                        </div>
                     </motion.div>
                 ))}
                 {/* Spacer for the exact scroll gap on the right edge */}
