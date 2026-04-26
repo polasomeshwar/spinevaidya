@@ -56,6 +56,10 @@ export function Hero() {
                 {t("ctaSecondary")}
               </a>
             </div>
+
+            <p className="mt-5 text-sm text-charcoal-light/70 italic font-medium">
+              {t("appointmentOnly")}
+            </p>
           </motion.div>
         </div>
       </div>

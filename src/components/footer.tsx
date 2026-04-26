@@ -81,6 +81,7 @@ export function Footer() {
             <ul className="space-y-2 text-white/50 text-sm">
               <li>{t("hours.weekdays")}</li>
               <li>{t("hours.sunday")}</li>
+              <li className="mt-2.5 text-gold/80 italic text-xs tracking-wide">{t("hours.appointmentOnly")}</li>
             </ul>
           </div>
 

@@ -15,7 +15,8 @@
     "subtext": "We treat the root cause of Sciatica, back pain, and joint pains through authentic Panchakarma, spine manipulation, and integrated therapeutic techniques.",
     "cta": "Start Your Healing Journey",
     "ctaSecondary": "Learn About Our Approach",
-    "badge": "Trusted by 500+ Satisfied Patients"
+    "badge": "Trusted by 500+ Satisfied Patients",
+    "appointmentOnly": "* Consultation by appointment only"
   },
   "specializations": {
     "title": "What We Heal",
@@ -163,7 +164,8 @@
     "hours": {
       "title": "Clinic Hours",
       "weekdays": "Mon - Sat: 9:00 AM - 7:00 PM",
-      "sunday": "Sunday: By Appointment Only"
+      "sunday": "Sunday: By Appointment Only",
+      "appointmentOnly": "*Consultation by appointment only"
     },
     "quickLinks": "Quick Links",
     "followUs": "Follow Us",
