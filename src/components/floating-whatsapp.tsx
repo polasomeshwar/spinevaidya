@@ -29,7 +29,7 @@ export function FloatingWhatsApp() {
     }, [hasClosedTooltip]);
 
     // Placeholder phone number, you can update this to the actual one
-    const phoneNumber = "917013246776";
+    const phoneNumber = "918019339168";
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=Hello!%20I%20would%20like%20to%20book%20an%20appointment.`;
 
     return (

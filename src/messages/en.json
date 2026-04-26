@@ -12,14 +12,14 @@
   },
   "hero": {
     "headline": "Find Lasting Relief from Chronic Pain.",
-    "subtext": "We treat the root cause of Sciatica, Back Pain, and Skin Disorders through authentic Vedic Panchakarma — a time-tested healing tradition trusted for thousands of years.",
+    "subtext": "We treat the root cause of Sciatica, back pain, and joint pains through authentic Panchakarma, spine manipulation, and integrated therapeutic techniques.",
     "cta": "Start Your Healing Journey",
     "ctaSecondary": "Learn About Our Approach",
     "badge": "Trusted by 500+ Satisfied Patients"
   },
   "specializations": {
     "title": "What We Heal",
-    "subtitle": "Our treatments go beyond symptom relief. We address the root cause using ancient Vedic wisdom and proven Panchakarma therapies.",
+    "subtitle": "Our treatments go beyond symptom relief. We address the root cause using ancient Vedic wisdom and treat them with proven Panchakarma therapies and by integrating advanced techniques.",
     "backPain": {
       "title": "Back Pain",
       "description": "Chronic lower back pain, lumbar spondylosis, and disc problems treated naturally through specialized Panchakarma therapies like Kati Basti.",
@@ -51,7 +51,7 @@
       },
       {
         "title": "Personalized Treatment Plan",
-        "description": "Based on your diagnosis, we design a treatment plan combining specific Panchakarma therapies, herbal medicines, and dietary guidance — tailored just for you."
+        "description": "Based on your diagnosis, we design a treatment plan combining specific Panchakarma therapies, herbal medicines, advanced manipulation techniques and dietary guidance tailored just for you."
       },
       {
         "title": "Panchakarma Therapy",
@@ -74,20 +74,20 @@
       {
         "name": "Ramesh K.",
         "location": "Hyderabad",
-        "text": "After 3 years of back pain, I had almost given up. SpineVaidya's Panchakarma treatment gave me my life back. I can play with my grandchildren again.",
+        "text": "After 3 years of back pain, I had almost given up. SpineVaidya's manipulation treatment gave me my life back. I can play with my grandchildren again.",
         "condition": "Chronic Back Pain"
       },
       {
         "name": "Lakshmi S.",
         "location": "Vijayawada",
-        "text": "The sciatica pain was unbearable. Doctors suggested surgery, but I wanted to try Ayurveda first. Best decision of my life. The pain is completely gone.",
+        "text": "The sciatica pain was unbearable. Doctors suggested surgery, but I wanted to try Ayurveda first. Best decision of my life. The pain is completely gone within 1 week of treatment.",
         "condition": "Sciatica"
       },
       {
         "name": "Prasad M.",
         "location": "Warangal",
-        "text": "My psoriasis was spreading despite years of treatment. The Vaidya garu identified my dosha imbalance and treated it from the root. My skin is clear now.",
-        "condition": "Psoriasis"
+        "text": "I suffered from knee pain for years. The herbal medicine worked wonders. I can climb stairs without pain now.",
+        "condition": "Knee Pain"
       },
       {
         "name": "Anitha R.",
@@ -114,13 +114,13 @@
     "subtitle": "A healer rooted in tradition, guided by compassion.",
     "name": "Dr. Pola Karthikeya",
     "designation": "B.A.M.S., M.D. (Ayurveda)",
-    "bio": "With over 5 years of dedicated practice in Vedic Ayurveda and Panchakarma, our Vaidya has helped hundreds of patients find lasting relief from chronic pain and skin conditions. Trained in authentic Panchakarma under renowned Guru-Shishya tradition, every treatment is rooted in classical Ayurvedic texts and delivered with deep patient care.",
+    "bio": "With over 5 years of dedicated practice in Ayurveda, Spine manipulation and Panchakarma, our Vaidya has helped hundreds of patients find lasting relief from chronic pain and skin conditions. Trained in authentic Panchakarma under renowned Guru Dr Ramarao, every treatment is rooted in classical Ayurvedic texts and delivered with deep patient care.",
     "highlights": [
       "5+ Years of Clinical Experience",
       "Specialist in Panchakarma & Pain Management",
       "Trained in Classical Guru-Shishya Tradition",
       "500+ Satisfied Patients",
-      "Expert in Nadi Pariksha (Pulse Diagnosis)"
+      "Expert in Spine manipulation"
     ],
     "quote": "\"True healing begins when we treat the person, not just the disease. Every patient is unique, and so must be their treatment.\""
   },
@@ -158,7 +158,7 @@
     "clinicName": "SpineVaidya Ayurveda Clinic",
     "tagline": "Authentic Vedic Healing for Chronic Pain & Skin Disorders",
     "address": "Clinic Address, City, State - PIN",
-    "phone": "+91 7013246776",
+    "phone": "+91 8019339168",
     "email": "contact@spinevaidya.com",
     "hours": {
       "title": "Clinic Hours",
