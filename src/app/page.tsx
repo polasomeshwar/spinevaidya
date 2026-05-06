@@ -6,6 +6,7 @@ import { Testimonials } from "@/components/testimonials";
 import { InstagramCarousel } from "@/components/instagram-carousel";
 import { PressClippings } from "@/components/press-clippings";
 import { MeetVaidya } from "@/components/meet-vaidya";
+import { ClinicGallery } from "@/components/clinic-gallery";
 import { FAQ } from "@/components/faq";
 import { Footer } from "@/components/footer";
 
@@ -19,6 +20,7 @@ export default function Home() {
       <PressClippings />
       <HealingProcess />
       <Testimonials />
+      <ClinicGallery />
       <MeetVaidya />
       <FAQ />
       <Footer />
