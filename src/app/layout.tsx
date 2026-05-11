@@ -25,9 +25,36 @@ const notoTelugu = Noto_Sans_Telugu({
 });
 
 export const metadata: Metadata = {
-  title: "SpineVaidya — Vedic Ayurveda for Chronic Pain & Skin Disorders",
+  title: "SpineVaidya — Best Ayurvedic Spine Treatment in Telangana & AP",
   description:
-    "Find lasting relief from Back Pain, Sciatica, and Skin Disorders through authentic Vedic Panchakarma treatments. Trusted by 10,000+ patients.",
+    "Find lasting relief from Back Pain, Sciatica, and Slip Disc through authentic Vedic Panchakarma treatments. Top rated in Hyderabad, Vizag, Vijayawada, Warangal, Karimnagar, Nizamabad, Bhongir & Kodad.",
+  keywords: [
+    "Ayurvedic spine treatment Hyderabad",
+    "Best spine doctor in Telangana",
+    "Sciatica treatment AP",
+    "Slip disc treatment without surgery Vizag",
+    "Back pain Ayurvedic doctor Vijayawada",
+    "Spine specialist Karimnagar",
+    "Panchakarma for back pain Warangal",
+    "Ayurvedic hospital Nizamabad",
+    "Spine care Bhongir Kodad",
+    "Non-surgical spine treatment",
+    "SpineVaidya",
+    "Dr. Someshwar",
+  ],
+  openGraph: {
+    title: "SpineVaidya — Best Ayurvedic Spine Treatment in Telangana & AP",
+    description: "Find lasting relief from Back Pain, Sciatica, and Slip Disc through authentic Vedic Panchakarma treatments.",
+    url: "https://beingvaidya.com", // Assuming beingvaidya.com or spinevaidya.com
+    siteName: "SpineVaidya",
+    locale: "en_IN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "SpineVaidya — Ayurvedic Spine Treatment",
+    description: "Non-surgical, authentic Vedic Panchakarma treatments for spine issues across Telangana & AP.",
+  },
 };
 
 export default async function RootLayout({
