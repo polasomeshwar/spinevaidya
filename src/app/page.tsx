@@ -24,6 +24,7 @@ export default function Home() {
       "addressRegion": "Telangana",
       "addressCountry": "IN"
     },
+    "hasMap": "https://maps.app.goo.gl/knMY3Gk7CTpt7sUW6",
     "areaServed": [
       { "@type": "City", "name": "Hyderabad" },
       { "@type": "City", "name": "Warangal" },

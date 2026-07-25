@@ -69,6 +69,17 @@ export function Footer() {
                   {t("email")}
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://maps.app.goo.gl/knMY3Gk7CTpt7sUW6"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 text-white/50 text-sm hover:text-gold transition-colors duration-200"
+                >
+                  <MapPin size={15} className="text-gold/70 flex-shrink-0" />
+                  {t("location")}
+                </a>
+              </li>
             </ul>
           </div>
 
@@ -101,6 +112,9 @@ export function Footer() {
                   <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33 2.78 2.78 0 0 0 1.94 2c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.33 29 29 0 0 0-.46-5.33z"></path>
                   <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
                 </svg>
+              </a>
+              <a href="https://maps.app.goo.gl/knMY3Gk7CTpt7sUW6" target="_blank" rel="noopener noreferrer" aria-label="Google Maps" className="w-10 h-10 rounded-full bg-white/5 border border-white/8 flex items-center justify-center text-white/50 hover:bg-gold hover:text-forest hover:border-gold transition-all duration-300">
+                <MapPin size={18} />
               </a>
             </div>
           </div>
